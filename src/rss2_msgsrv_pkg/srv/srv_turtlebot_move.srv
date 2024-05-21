@@ -1,0 +1,3 @@
+int32 duration #Request - time tb3 moves
+---
+bool success #Response

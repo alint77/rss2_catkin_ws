@@ -1,0 +1,3 @@
+<launch>
+    <node name="alint_msg_pub" pkg="rss2_msgsrv_pkg" type="alint_msg_sub.py" output="screen"/>
+</launch>

@@ -1,0 +1,2 @@
+rss2_msgsrv_pkg:rss_linux_pkg:rss_pubsub_pkg
+-DCATKIN_DEVEL_PREFIX=/home/ali/rss2_catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/ali/rss2_catkin_ws/install -G Unix Makefiles

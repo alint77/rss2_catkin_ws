@@ -1,0 +1,8 @@
+prefix=/home/ali/rss2_catkin_ws/devel
+
+Name: rss_pubsub_pkg
+Description: Description of rss_pubsub_pkg
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,3 @@
+<launch>
+<node name="alint_pub" pkg="rss_pubsub_pkg" type="alint_subscriber.py" output="screen"/>
+</launch>

@@ -1,0 +1,3 @@
+<launch>
+<node name="alint_pub_stop" pkg="rss_pubsub_pkg" type="alint_publisher_stop.py" output="screen"/>
+</launch>
